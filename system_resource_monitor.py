@@ -1,5 +1,5 @@
-import psutil #monitor
-import matplotlib.pyplot as plt #plot graphy
+import psutil 
+import matplotlib.pyplot as plt
 from datetime import datetime 
 import csv 
 import time
